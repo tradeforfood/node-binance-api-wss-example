@@ -1,0 +1,15 @@
+{
+  "name": "node-binance-api-wss-example",
+  "version": "1.0.0",
+  "description": "Node Binance API WSS example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "node-binance-api-wss": "0.0.4"
+  }
+}
